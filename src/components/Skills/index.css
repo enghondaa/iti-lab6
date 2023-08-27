@@ -1,0 +1,15 @@
+.skills h4::before{
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 33.333%;
+    left: 33.33%;
+    top: 40px;
+    background-color: grey;
+}
+ul li {
+    margin: 15px 0px;
+}
+.skills {
+    min-height: 75vh;
+}

@@ -1,0 +1,7 @@
+.progress {
+    border-radius: 0 !important;
+    height: 24px !important;
+}
+.progress-bar {
+    border-radius: 0 !important;
+}

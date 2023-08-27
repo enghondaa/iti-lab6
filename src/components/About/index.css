@@ -1,0 +1,6 @@
+
+.about-container{
+    min-height:50vh !important;
+    display: flex;
+    align-items: center;
+}
